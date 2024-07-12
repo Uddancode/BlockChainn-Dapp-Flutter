@@ -1,6 +1,5 @@
-# flutter_expense_manager_dapp
-
-A new Flutter project.
+# BlockChainn-Dapp-Flutter
+A new Flutter in BlockChain project.
 
 ## Getting Started
 
